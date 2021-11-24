@@ -1,0 +1,65 @@
+@charset "utf-8";
+header {
+	width: 960px;
+	margin: 100 auto;
+	display: block;
+	width: 100%;
+	background: #DEB887;
+	color: #FFF;
+	position: absolute;
+	left: 0;
+	z-index: -1;
+}
+
+.message {
+	color: #323232;
+	background-color: #DEB887;
+	border: 1px solid #696969;
+	font-size: 16px;
+	margin-top: 10px;
+	padding: 15px;
+	border-radius: 100px;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+}
+
+.ssilka {
+	color: #323232;
+	background-color: #FFFAF0;
+	border: 1px solid #DEB887;
+	font-size: 16px;
+	margin-top: 10px;
+	padding: 15px;
+	border-radius: 100px;
+	text-align: center;
+	
+}
+	
+li:hover{
+	border: 10px solid #DEB887;
+}
+	
+
+
+
+h1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+   } 
+   p {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+   }
+   h3 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+	h4 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+	li {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+	
+ 
+	
